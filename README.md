@@ -6,5 +6,5 @@ Proyectos de análisis de datos y machine learning.
 
 ## Contacto
 - Email: maneroalvarez99@gmail.com
-- LinkedIn: Jordi Manero (https://www.linkedin.com/in/jordi-manero)
+- LinkedIn: Jordi Manero https://www.linkedin.com/in/jordi-manero
 
