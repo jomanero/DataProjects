@@ -8,5 +8,5 @@ Podrás encontrar distintas carpetas según los distintos proyectos y objetivos 
 
 ## Contacto
 - Email: maneroalvarez99@gmail.com
-- LinkedIn: Jordi Manero https://www.linkedin.com/in/jordi-manero
+- LinkedIn: Jordi Manero https://www.linkedin.com/in/jordimanero/ 
 
