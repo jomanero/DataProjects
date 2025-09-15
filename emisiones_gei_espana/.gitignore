@@ -1,0 +1,21 @@
+# Datos sin versionar
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+/data/external/*
+!/data/external/.gitkeep
+
+# Modelos y resultados pesados
+/models/*
+!/models/.gitkeep
+/reports/figures/*
+!/reports/figures/.gitkeep
+
+# Entornos y dependencias
+.env
+.venv/
+*.egg-info/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
